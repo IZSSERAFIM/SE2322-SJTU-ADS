@@ -1,0 +1,24 @@
+RadixTree
+workload-1
+average:0.372518 P50:0.356 P90:0.425 P99:0.595
+workload-2
+average:0.390624 P50:0.361 P90:0.454 P99:0.829
+workload-3
+average:0.390637 P50:0.352 P90:0.479 P99:0.953
+
+CompressedRadixTree
+workload-1
+average:0.377146 P50:0.351 P90:0.447 P99:0.717
+workload-2
+average:0.362073 P50:0.325 P90:0.407 P99:0.768
+workload-3
+average:0.362804 P50:0.347 P90:0.415 P99:0.577
+
+RBTree
+workload-1
+average:0.397566 P50:0.383 P90:0.47 P99:0.687
+workload-2
+average:0.393384 P50:0.368 P90:0.474 P99:0.761
+workload-3
+average:0.394875 P50:0.372 P90:0.48 P99:0.718
+

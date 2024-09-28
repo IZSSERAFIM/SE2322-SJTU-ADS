@@ -1,0 +1,17 @@
+time: 0.588386s
+throughput: 16995642 ops/s
+time: 2.55781s
+throughput: 7819182 ops/s
+time: 3.58448s
+throughput: 11159224 ops/s
+time: 8.63553s
+throughput: 9264055 ops/s
+
+time: 0.275915s
+throughput: 36243103 ops/s
+time: 0.28781s
+throughput: 69490329 ops/s
+time: 0.316513s
+throughput: 126377172 ops/s
+time: 0.65696s
+throughput: 121773031 ops/s
